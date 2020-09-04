@@ -3,26 +3,79 @@ Computer Vision using OpenCV 👁👁.
 
 ## Index
 
-| # | Name |
-| --- | --- |
-| 1. | [getting_started_with_images](https://numpy.org/doc/stable/index.html) |
-| 2. | [getting_started_with_videos](https://numpy.org/doc/stable/index.html) |
-| 3. | [drawing_functions_in_opencv](https://numpy.org/doc/stable/index.html) |
-| 4. | [setting_video_properties](https://numpy.org/doc/stable/index.html) |
-| 5. | [add_text_to_videos](https://numpy.org/doc/stable/index.html) |
-| 6. | [mouse_events_opencv](https://numpy.org/doc/stable/index.html) |
-| 7. | [more_mouse_events_1](https://numpy.org/doc/stable/index.html) |
-| 8. | [more_mouse_events_2](https://numpy.org/doc/stable/index.html) |
-| 9. | [basic_operations_on_images](https://numpy.org/doc/stable/index.html) |
-| 10. | [bitwise_operations_opencv](https://numpy.org/doc/stable/index.html) |
-| 11. | [bind_trackbar](https://numpy.org/doc/stable/index.html) |
-| 12. | [bind_trackbar_2](https://numpy.org/doc/stable/index.html) |
-| 13. | [object_detection_image](https://numpy.org/doc/stable/index.html) |
-| 14. | [object_detection_video](https://numpy.org/doc/stable/index.html) |
-| 15. | [simple_thresholding](https://numpy.org/doc/stable/index.html) |
-| 16. | [adaptive_thresholding](https://numpy.org/doc/stable/index.html) |
-| 17. | [matplotlib_in_opencv](https://numpy.org/doc/stable/index.html) |
-| 18. | [multiple_images_in_matplotlib](https://numpy.org/doc/stable/index.html) |
-| 19. | [morphological_transformations](https://numpy.org/doc/stable/index.html) |
-| 20. | [morphological_transformations_2](https://numpy.org/doc/stable/index.html) |
-
+1. getting_started
+    * [getting_started_with_images](https://github.com/mclods/gods-eye/blob/master/1.%20getting_started/getting_started_with_images.py)
+    * [getting_started_with_videos](https://github.com/mclods/gods-eye/blob/master/1.%20getting_started/getting_started_with_videos.py)
+1. drawing_shapes_on_images
+    * [drawing_functions_in_opencv](https://github.com/mclods/gods-eye/blob/master/2.%20drawing_shapes_on_images/drawing_functions_in_opencv.py)
+1. setting_camera_parameters_for_videos
+    * [setting_video_properties](https://github.com/mclods/gods-eye/blob/master/3.%20setting_camera_parameters_for_videos/setting_video_properties.py)
+1. show_date_and_time_on_videos
+    * [add_text_to_videos](https://github.com/mclods/gods-eye/blob/master/4.%20show_date_and_time_on_videos/add_text_to_videos.py)
+1. mouse_events
+    * [mouse_events_opencv](https://github.com/mclods/gods-eye/blob/master/5.%20mouse_events/mouse_events_opencv.py)
+    * [more_mouse_events_1](https://github.com/mclods/gods-eye/blob/master/5.%20mouse_events/more_mouse_events_1.py)
+    * [more_mouse_events_2](https://github.com/mclods/gods-eye/blob/master/5.%20mouse_events/more_mouse_events_2.py)
+1. basic_operations_on_images
+    * [basic_operations_on_images](https://github.com/mclods/gods-eye/blob/master/6.%20basic_operations_on_images/basic_operations_on_images.py)
+1. bitwise_operations_on_images
+    * [bitwise_operations_opencv](https://github.com/mclods/gods-eye/blob/master/7.%20bitwise_operations_on_images/bitwise_operations_opencv.py)
+1. bind_trackbar
+    * [bind_trackbar](https://github.com/mclods/gods-eye/blob/master/8.%20bind_trackbar/bind_trackbar.py)
+    * [bind_trackbar_2](https://github.com/mclods/gods-eye/blob/master/8.%20bind_trackbar/bind_trackbar_2.py)
+1. object_detection
+    * [object_detection_image](https://github.com/mclods/gods-eye/blob/master/9.%20object_detection/object_detection_image.py)
+    * [object_detection_video](https://github.com/mclods/gods-eye/blob/master/9.%20object_detection/object_detection_video.py)
+1. image_thresholding
+    * [simple_thresholding](https://github.com/mclods/gods-eye/blob/master/10.%20image_thresholding/simple_thresholding.py)
+    * [adaptive_thresholding](https://github.com/mclods/gods-eye/blob/master/10.%20image_thresholding/adaptive_thresholding.py)
+1. matplotlib_in_opencv
+    * [matplotlib_in_opencv](https://github.com/mclods/gods-eye/blob/master/11.%20matplotlib_in_opencv/matplotlib_in_opencv.py)
+    * [multiple_images_in_matplotlib](https://github.com/mclods/gods-eye/blob/master/11.%20matplotlib_in_opencv/multiple_images_in_matplotlib.py)
+1. morphological_transformations
+    * [morphological_transformations](https://github.com/mclods/gods-eye/blob/master/12.%20morphological_transformations/morphological_transformations.py)
+    * [morphological_transformations_2](https://github.com/mclods/gods-eye/blob/master/12.%20morphological_transformations/morphological_transformations_2.py)
+1. smoothing_and_blurring_images
+    * [smoothing_and_blurring_images](https://github.com/mclods/gods-eye/blob/master/13.%20smoothing_and_blurring_images/smoothing_and_blurring_images.py)
+1. image_gradients_and_edge_detection
+    * [image_gradients_and_canny_edge_detection](https://github.com/mclods/gods-eye/blob/master/14.%20image_gradients_and_edge_detection/image_gradients_and_canny_edge_detection.py)
+    * [canny_edge_detection](https://github.com/mclods/gods-eye/blob/master/14.%20image_gradients_and_edge_detection/canny_edge_detection.py)
+1. image_pyramids
+    * [image_pyramids](https://github.com/mclods/gods-eye/blob/master/15.%20image_pyramids/image_pyramids.py)
+1. image_blending_using_image_pyramids
+    * [image_blending_using_pyramids](https://github.com/mclods/gods-eye/blob/master/16.%20image_blending_using_image_pyramids/image_blending_using_pyramids.py)
+1. image_contours
+    * [find_and_draw_contours](https://github.com/mclods/gods-eye/blob/master/17.%20image_contours/find_and_draw_contours.py)
+1. basic_motion_tracking
+    * [basic_motion_detection](https://github.com/mclods/gods-eye/blob/master/18.%20basic_motion_tracking/basic_motion_detection.py)
+1. shape_detection
+    * [shape_detection](https://github.com/mclods/gods-eye/blob/master/19.%20shape_detection/shape_detection.py)
+1. histograms
+    * [histograms_in_opencv](https://github.com/mclods/gods-eye/blob/master/20.%20histograms/histograms_in_opencv.py)
+    * [histograms_in_opencv_2](https://github.com/mclods/gods-eye/blob/master/20.%20histograms/histograms_in_opencv_2.py)
+    * [histograms_in_opencv_3](https://github.com/mclods/gods-eye/blob/master/20.%20histograms/histograms_in_opencv_3.py)
+1. template_matching
+    * [template_matching_in_opencv](https://github.com/mclods/gods-eye/blob/master/21.%20template_matching/template_matching_in_opencv.py)
+1. hough_line_transform
+    * [hough_line_transform](https://github.com/mclods/gods-eye/blob/master/22.hough_line_transform/hough_line_transform.py)
+    * [probabilistic_hough_line_transform](https://github.com/mclods/gods-eye/blob/master/22.hough_line_transform/probabilistic_hough_line_transform.py)
+1. lane_detection
+    * [lane_detector_image](https://github.com/mclods/gods-eye/blob/master/23.%20lane_detection/lane_detector_image.py)
+    * [lane_detector_video](https://github.com/mclods/gods-eye/blob/master/23.%20lane_detection/lane_detector_video.py)
+1. hough_circle_transform
+    * [detecting_circles_using_hough_circle_transform](https://github.com/mclods/gods-eye/blob/master/24.%20hough_circle_transform/detecting_circles_using_hough_circle_transform.py)
+1. face_detection
+    * [face_detection](https://github.com/mclods/gods-eye/blob/master/25.%20face_detection/face_detection.py)
+    * [face_detection_video](https://github.com/mclods/gods-eye/blob/master/25.%20face_detection/face_detection_video.py)
+    * [face_detection_eye](https://github.com/mclods/gods-eye/blob/master/25.%20face_detection/face_detection_eye.py)
+1. corner_detection
+    * [harris_corner_detection](https://github.com/mclods/gods-eye/blob/master/26.%20corner_detection/harris_corner_detection.py)
+    * [shi_tomasi_corner_detection](https://github.com/mclods/gods-eye/blob/master/26.%20corner_detection/shi_tomasi_corner_detection.py)
+1. background_subtraction
+    * [background_subtraction](https://github.com/mclods/gods-eye/blob/master/27.%20background_subtraction/background_subtraction.py)
+    * [background_subtraction_2](https://github.com/mclods/gods-eye/blob/master/27.%20background_subtraction/background_subtraction_2.py)
+    * [background_subtraction_3](https://github.com/mclods/gods-eye/blob/master/27.%20background_subtraction/background_subtraction_3.py)
+    * [background_subtraction_4](https://github.com/mclods/gods-eye/blob/master/27.%20background_subtraction/background_subtraction_4.py)
+1. mean_shift_object_tracking
+    * [meanshift_object_tracking](https://github.com/mclods/gods-eye/blob/master/28.%20mean_shift_object_tracking/meanshift_object_tracking.py)
+    * [camshift_object_tracking](https://github.com/mclods/gods-eye/blob/master/28.%20mean_shift_object_tracking/camshift_object_tracking.py)
